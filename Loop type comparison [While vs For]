@@ -1,0 +1,8 @@
+when is 'While' loop statement used? and when is 'For' loop statement used?
+
+
+While : When you don't know the number of iterations in advance, and the loop depends on a condition
+ex) Waiting for user input, running until a countdown reaches zero
+
+For : When you know the exact number of iterations or need to iterate over a range/sequence
+ex) Counting from 1 to 10, iterating over an array 
